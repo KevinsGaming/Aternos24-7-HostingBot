@@ -8,7 +8,7 @@
   "server": {
     "ip": "LucknowLaunde.aternos.me",
     "port": 34708,
-    "version": ""
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
